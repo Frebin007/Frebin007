@@ -8,6 +8,8 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/starasianet/master/master.m3u8
 http://14.199.164.20:4001/play/a0k6/index.m3u8
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_gGg9UfzoFs2T6qD8ddJySeS6k6u5ayjPOw&usqp=CAU" group-title="MALAYALAM", ZeeKeralam
 http://indo51.gcdn.co/MALYLAM-ZEEKERALAMHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_gGg9UfzoFs2T6qD8ddJySeS6k6u5ayjPOw&usqp=CAU" group-title="MALAYALAM", ZeeKeralam
+https://live.picasotv.xyz/zeetv/index.php?c=0-9-129
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png" group-title="MALAYALAM", Flowers Tv
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png" group-title="MALAYALAM", Flowers Tv
@@ -24,6 +26,8 @@ http://watchindia.net:8880/live/33253/72963/1938.m3u8
 https://tvstream.fun/api/max.php?id=42345656&e=.m3u8
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrbpm7Y3kh5IOAHrGc58DnWXcLpJjiSiA3Pw&usqp=CAU" group-title="MALAYALAM", MAZHAVIL MANORAMA
 https://zkpywvmglbeg-hls-live.5centscdn.com/mazhavilmanorama/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrbpm7Y3kh5IOAHrGc58DnWXcLpJjiSiA3Pw&usqp=CAU" group-title="MALAYALAM", MAZHAVIL MANORAMA
+https://live.picasotv.xyz/m3u8.php?c=Mazhavil_Manorama&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Fop__nglOjcd6Y8X4pY5fUsaO6-iB6RQ6Q&usqp=CAU" group-title="MALAYALAM", AsianetPlus
 https://indo51.gcdn.co/MALYLAM-AsianetPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPff-aLb01yYdNHC5EMtYBSWHapYmBRPSSjw&usqp=CAU"  group-title="MALAYALAM",ASIANET MOVIE
