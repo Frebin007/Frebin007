@@ -38,6 +38,8 @@ https://zkpywvmglbeg-hls-live.5centscdn.com/mazhavilmanorama/tv.stream/playlist.
 https://live.picasotv.xyz/m3u8.php?c=Mazhavil_Manorama&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Fop__nglOjcd6Y8X4pY5fUsaO6-iB6RQ6Q&usqp=CAU" group-title="MALAYALAM", AsianetPlus
 https://indo51.gcdn.co/MALYLAM-AsianetPlus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Fop__nglOjcd6Y8X4pY5fUsaO6-iB6RQ6Q&usqp=CAU" group-title="MALAYALAM", AsianetPlus
+http://watchindia.net:8880/live/54739/54739/2240.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPff-aLb01yYdNHC5EMtYBSWHapYmBRPSSjw&usqp=CAU"  group-title="MALAYALAM",ASIANET MOVIE
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86061
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPff-aLb01yYdNHC5EMtYBSWHapYmBRPSSjw&usqp=CAU"  group-title="MALAYALAM",ASIANET MOVIE
