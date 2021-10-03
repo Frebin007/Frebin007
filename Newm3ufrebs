@@ -22,6 +22,10 @@ https://indo51.gcdn.co/MALYLAM-Flowerstv/tracks-v1a1/mono.m3u8
 http://watchindia.net:8880/live/54739/54739/2184.ts
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41pBR81Ugkx-Z70ll0eD_j_uX3XLfLZDNHA&usqp=CAU" group-title="MALAYALAM", SURYA TV HD
 https://indo51.gcdn.co/MALYLAM-SuryaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41pBR81Ugkx-Z70ll0eD_j_uX3XLfLZDNHA&usqp=CAU" group-title="MALAYALAM", SURYA TVHD
+http://watchindia.net:8880/live/54739/54739/2240.ts
+#EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41pBR81Ugkx-Z70ll0eD_j_uX3XLfLZDNHA&usqp=CAU" group-title="MALAYALAM", SURYA TV SD
+http://watchindia.net:8880/live/54739/54739/2261.ts
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41pBR81Ugkx-Z70ll0eD_j_uX3XLfLZDNHA&usqp=CAU" group-title="MALAYALAM", SURYA TV SD
 https://najfilmy.xyz/red/redbox.php?url=http://livezer0.hjkm.info:11991/vulcan/suryatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41pBR81Ugkx-Z70ll0eD_j_uX3XLfLZDNHA&usqp=CAU" group-title="MALAYALAM", SURYA TV USA HD
