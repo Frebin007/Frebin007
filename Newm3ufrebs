@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtpM9kCf4fEvGw-uXFfE3r53wJyDsOegxjw&usqp=CAU" group-title="MALAYALAM", AsianetHD
-https://indo51.gcdn.co/MALYLAM-AsianetHD/tracks-v1a1/mono.m3u8
+http://xlx723.dyndns.org/iproxy/miniProxy.php/https://yupptvmslwebnonusacan.akamaized.net/hls/live/2008782/starasianet/starasianet/starasianet_400/chunklist.m3u8?hdntl=exp=1634524945~acl=*~data=hdntl~hmac=0df5fd699790c299ca624cc53fece09850be1ea904920fcfa7fa408ba5ccfdf3
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtpM9kCf4fEvGw-uXFfE3r53wJyDsOegxjw&usqp=CAU" group-title="MALAYALAM", AsianetHD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86059
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtpM9kCf4fEvGw-uXFfE3r53wJyDsOegxjw&usqp=CAU" group-title="MALAYALAM", AsianetHD
@@ -11,7 +11,7 @@ http://watchindia.net:8880/live/54739/54739/2216.ts
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png/revision/latest?cb=20200307083953" group-title="MALAYALAM", Asianet MIDDLE EAST
 http://14.199.164.20:4001/play/a0k6/index.m3u8
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_gGg9UfzoFs2T6qD8ddJySeS6k6u5ayjPOw&usqp=CAU" group-title="MALAYALAM", ZeeKeralam
-https://z5ams.akamaized.net/zkeralamhd/tracks-v1a1/hdntl=exp=1634224978~acl=%2f*~data=hdntl~hmac=76ee3a5f7e71203ba49e1931e39e85670d9f58af8958994e152969b783a69f4e/mono.m3u8
+https://z5ams.akamaized.net/zkeralamhd/tracks-v2a1/hdntl=exp=1634580028~acl=%2f*~data=hdntl~hmac=b9ff522e3b6cbd78d59d3f5ddb80c5ca874360164e72824f80a9ffce7184f2ef/mono.m3u8
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_gGg9UfzoFs2T6qD8ddJySeS6k6u5ayjPOw&usqp=CAU" group-title="MALAYALAM", ZeeKeralam
 http://indo51.gcdn.co/MALYLAM-ZEEKERALAMHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_gGg9UfzoFs2T6qD8ddJySeS6k6u5ayjPOw&usqp=CAU" group-title="MALAYALAM", ZeeKeralam
@@ -25,9 +25,9 @@ https://indo51.gcdn.co/MALYLAM-Flowerstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxlxCC3GFdpS58RMUbkeN_GQMJ_H8mUfEITA&usqp=CAU" group-title="MALAYALAM", Flowers Tv HD USA
 http://watchindia.net:8880/live/54739/54739/2184.ts
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41pBR81Ugkx-Z70ll0eD_j_uX3XLfLZDNHA&usqp=CAU" group-title="MALAYALAM", SURYA TV HD
-https://indo51.gcdn.co/MALYLAM-SuryaHD/tracks-v1a1/mono.m3u8
+https://suntvvodaf-live.s.llnwi.net/SuryaTV/SuryaTV.isml/SuryaTV-audio_1=64000-video=699968.m3u8?p=57&se=1634466348&e=1634496048&h=4ac991830acd937b056556c5747ba883
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41pBR81Ugkx-Z70ll0eD_j_uX3XLfLZDNHA&usqp=CAU" group-title="MALAYALAM", SURYA TVHD
-https://mhdtvworld.co.in/red/livvx.php?id=2338&e=.m3u8
+https://suntvvodaf-live.s.llnwi.net/SuryaTVHD/SuryaTVHD.isml/SuryaTVHD-audio_1=64000-video=2499968.m3u8?p=61&se=1634466353&e=1634496053&h=32ad5c25e56c217e1a74a0d3dccb33fd
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41pBR81Ugkx-Z70ll0eD_j_uX3XLfLZDNHA&usqp=CAU" group-title="MALAYALAM", SURYA TV SD
 http://bestsave.ltd:8011/77665544/77665544/38321
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41pBR81Ugkx-Z70ll0eD_j_uX3XLfLZDNHA&usqp=CAU" group-title="MALAYALAM", SURYA TV SD
@@ -41,11 +41,11 @@ https://yupptvmsldev.akamaized.net/hls/live/2008774/mazhavilmanorama/mazhavilman
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrbpm7Y3kh5IOAHrGc58DnWXcLpJjiSiA3Pw&usqp=CAU" group-title="MALAYALAM", MAZHAVIL MANORAMA
 https://live.picasotv.xyz/m3u8.php?c=Mazhavil_Manorama&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Fop__nglOjcd6Y8X4pY5fUsaO6-iB6RQ6Q&usqp=CAU" group-title="MALAYALAM", AsianetPlus
-https://indo51.gcdn.co/MALYLAM-AsianetPlus/tracks-v1a1/mono.m3u8
+http://xlx723.dyndns.org/iproxy/miniProxy.php/https://yupptvmslwebnonusacan.akamaized.net:443/hls/live/2008774/starasianetppxy/starasianetppxy/starasianetp_1200/chunklist.m3u8?hdnts=st=1614546158~exp=1714546058~acl=!*/2010053/*!*/2008051/*!*/2008126/*!*/2008123/*!*/2008839/*!*/2004031/*!*/2009560/*!*/2003938/*!*/2003662/*!*/2003939/*!*/2009887/*!*/2007780/*!*/2008055/*!*/2008015/*!*/2003942/*!*/2007651/*!*/2008775/*!*/2010052/*!*/2010048/*!*/2008774/*!*/2010047/*!*/2009216/*!!*/2006792/*!*/2008784/*!*/2007108/*!*/2009279/*!*/2000183/*!*/2007862/*!~data=YuppTV_Monitoring~hmac=60dd72aa0501805791c91d9a4bb2f2665df3f5372a217bf71e396d949cfc1887
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Fop__nglOjcd6Y8X4pY5fUsaO6-iB6RQ6Q&usqp=CAU" group-title="MALAYALAM", AsianetPlus
 https://mhdtvworld.co.in/red/livvx.php?id=2894&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPff-aLb01yYdNHC5EMtYBSWHapYmBRPSSjw&usqp=CAU"  group-title="MALAYALAM",ASIANET MOVIE
-https://mhdtvworld.co.in/red/livvx.php?id=2893&e=.m3u8
+http://xlx723.dyndns.org/iproxy/miniProxy.php/https://yupptvmslwebnonusacan.akamaized.net/hls/live/2010053/asianetmovieshttp/asianetmovieshttp/asianetmovieshttp_800/chunklist.m3u8?hdnts=st=1614546158~exp=1714546058~acl=!*/2010053/*!*/2008051/*!*/2008126/*!*/2008123/*!*/2008839/*!*/2004031/*!*/2009560/*!*/2003938/*!*/2003662/*!*/2003939/*!*/2009887/*!*/2007780/*!*/2008055/*!*/2008015/*!*/2003942/*!*/2007651/*!*/2008775/*!*/2010052/*!*/2010048/*!*/2008774/*!*/2010047/*!*/2009216/*!!*/2006792/*!*/2008784/*!*/2007108/*!*/2009279/*!*/2000183/*!*/2007862/*!~data=YuppTV_Monitoring~hmac=60dd72aa0501805791c91d9a4bb2f2665df3f5372a217bf71e396d949cfc1887
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPff-aLb01yYdNHC5EMtYBSWHapYmBRPSSjw&usqp=CAU"  group-title="MALAYALAM",ASIANET MOVIE
 http://ahaohoo.com/.1/tv1/play.php?id=2324&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPff-aLb01yYdNHC5EMtYBSWHapYmBRPSSjw&usqp=CAU"  group-title="MALAYALAM",ASIANET MOVIE
@@ -53,7 +53,7 @@ https://yuppcatchup.akamaized.net/preview/asianetmovies/800.m3u8
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT38rayoBpdoc10ikayQwBszpukt-IrMsN_ng&usqp=CAU" group-title="MALAYALAM", SuryaComedy
 https://indxtv.com/sun/sunnxt_mhdtv.m3u8?id=30835
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7xqwa5MoBu3mDbCYQ38c5zf-eAxWQbF0X9Q&usqp=CAU" group-title="MALAYALAM", SURYA MOVIES
-https://indxtv.com/sun/sunnxt_mhdtv.m3u8?id=9019
+https://suntvvodaf-live.s.llnwi.net/SuryaMovies/SuryaMovies.isml/SuryaMovies-audio_1=64000-video=699968.m3u8?p=65&se=1634466358&e=1634496058&h=d74854adbd29326f9c2bdec60955620e
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRRl54ZwBscBcz0leLJIXMdJ3Av5iJs86RCA&usqp=CAU" group-title="MALAYALAM", SuryaMusic
 https://indxtv.com/sun/sunnxt_mhdtv.m3u8
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoM8WLEovqDuJBF6fDYqfDUrZAJMK1ik6IyQ&usqp=CAU" group-title="MALAYALAM", 24 NEWS
