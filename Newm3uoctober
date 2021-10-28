@@ -38,9 +38,9 @@ https://tvstream.fun/api/sun/snxt.m3u8?id=26575
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoM8WLEovqDuJBF6fDYqfDUrZAJMK1ik6IyQ&usqp=CAU" , 24 NEWS
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1-Bpp146Z8RRCQaPgbHkCLKjU-RhX-_cBMw&usqp=CAU" , Mediaone
-https://live.neestream.com/neestream_01/mediaone/tracks-v1a1/mono.m3u8
+https://live.neestream.net/neestream_01/mediaone/tracks-v2a1/mono.m3u8?token=693400
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLeUTJYsakgGaTjsIeXJewUzOs3INuX8P3oA&usqp=CAU" , MATHRUBHUMI NEWS
-https://live.neestream.com/neestream_01/mathrubhumi/tracks-v1a1/mono.m3u8
+https://live.neestream.net/neestream_01/mathrubhuminews/tracks-v2a1/mono.m3u8?token=693400
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Manorama_News.svg/1200px-Manorama_News.svg.png" , MANORAMA NEWS
 http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Manorama_News.svg/1200px-Manorama_News.svg.png" , MANORAMA NEWS 2
@@ -94,9 +94,9 @@ http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Safari_logo_new_25-07-2015.png" , SAFARI TV
 https://live.neestream.com/neestream_01/safari/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3WxyLKVB_I5613QD4gWEqBPZJw78fUanWuQ&usqp=CAU" , FLIX
-http://indo51.gcdn.co/MALYLAM-Asianetutsav/tracks-v1a1/mono.m3u8
+https://indian.gcdn.co/MALYLAM-Asianetutsav/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Goodness-tv-logo.png" , GOODNESS CHANNEL
-https://live.neestream.com/neestream_01/goodness/tracks-v2a1/mono.m3u8
+https://live.neestream.net/neestream_01/goodnesstv/tracks-v2a1/mono.m3u8?token=693400
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDQwIgOCH5qnuVBPexpL8Oe2FUaWLRAsELaw&usqp=CAU" , KochuTv
 https://suntvvodaf-live.s.llnwi.net/KochuTV/KochuTV.isml/KochuTV-audio_1=64000-video=699968.m3u8?p=57&se=1634981584&e=1635011284&h=69e942eb45d354510bc66d268211e884
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmzo-K9Dqe-dbVY4IplnZ6913V5P_MCjBxZw&usqp=CAU" , DISCOVERY KIDS
@@ -105,7 +105,7 @@ https://idvd.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
 https://live.picasotv.xyz/m3u8.php?c=Sonic_Malayalam&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJm9rsxadbXer8LgSfSmltCci_7HKNM6HQQ&usqp=CAU" , NICK MALAYALAM
 https://live.picasotv.xyz/m3u8.php?c=Nick_Malayalam&q=800&e=junk.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 Shalom Tv https://playback.akamaized.net/streams/25038049_7483919_lsinnz0ovihtonksd9i_1/master.m3u8?dw=80&hdnts=exp=1635433409~acl=/streams/25038049_7483919_lsinnz0ovihtonksd9i_1/master.m3u8*~hmac=d8674f935cb3b9fdaf5f3c70017b6b47dfc03f660a7806c06a8f8e504b569b73
 #EXTINF:-1,
 #EXTINF:-1 ,
 #EXTINF:-1,
