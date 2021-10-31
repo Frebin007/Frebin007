@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtpM9kCf4fEvGw-uXFfE3r53wJyDsOegxjw&usqp=CAU" , AsianetHD
-https://indian.gcdn.co/MALYLAM-AsianetHD/tracks-v1a1/mono.m3u8
+https://last.gcdn.co/IND491/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtpM9kCf4fEvGw-uXFfE3r53wJyDsOegxjw&usqp=CAU" , AsianetHD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86059
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtpM9kCf4fEvGw-uXFfE3r53wJyDsOegxjw&usqp=CAU" , AsianetHD
-http://indian.gcdn.co/MALYLAM-AsianetPlusUK/tracks-v1a1/mono.m3u8
+https://last.gcdn.co/IND521/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtpM9kCf4fEvGw-uXFfE3r53wJyDsOegxjw&usqp=CAU" , AsianetHD
-https://indian.gcdn.co/MALYLAM-AsianetHD/tracks-v1a1/mono.m3u8
+https://last.gcdn.co/IND491/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png/revision/latest?cb=20200307083953" , Asianet MIDDLE EAST
 http://14.199.164.20:4001/play/a0k6/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_gGg9UfzoFs2T6qD8ddJySeS6k6u5ayjPOw&usqp=CAU" , ZeeKeralam
-https://indian.gcdn.co/MALYLAM-ZEEKERALAMHD/tracks-v1a1/mono.m3u8
+https://z5ams.akamaized.net/zkeralamhd/tracks-v5a1/hdntl=exp=1635745655~acl=%2f*~data=hdntl~hmac=0d2a8b2c7e3fc6244033f808985c35f897bbd0fc6dd14bbf4e6188230ef805c0/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png" , Flowers Tv
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png" , Flowers Tv USA
