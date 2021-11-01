@@ -16,9 +16,9 @@ http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/Stream(01)/index.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png" , Flowers Tv USA
 https://d3t34m8y8rh0vb.cloudfront.net/preview/flowersusa/800.m3u8?hdnea=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41pBR81Ugkx-Z70ll0eD_j_uX3XLfLZDNHA&usqp=CAU" , SURYA TVHD
-https://indian.gcdn.co/MALYLAM-SuryaHD/tracks-v1a1/mono.m3u8
+http://139.59.55.243/sunnxt/live.php?c=26574&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41pBR81Ugkx-Z70ll0eD_j_uX3XLfLZDNHA&usqp=CAU" , SURYA TV SD
-https://tvstream.fun/api/sun/snxt.m3u8?id=9018
+http://139.59.55.243/sunnxt/live.php?c=9018&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmpW4la9q6a4lqm331oZUlj7vGiuodyjMPxg&usqp=CAU" , MAZHAVIL MANORAMA HD
 http://veganxe.com/api/ytv/max.php?id=42345656&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrbpm7Y3kh5IOAHrGc58DnWXcLpJjiSiA3Pw&usqp=CAU" , MAZHAVIL MANORAMA
@@ -30,11 +30,11 @@ http://rm5.topcms.cc:8080/7fe5abe6ab/ee3142771b/281733?token=TEQOUUFbGgoUV1NfVF8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPff-aLb01yYdNHC5EMtYBSWHapYmBRPSSjw&usqp=CAU" , ASIANET MOVIE
 https://yuppcatchup.akamaized.net/preview/asianetmovies/800.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT38rayoBpdoc10ikayQwBszpukt-IrMsN_ng&usqp=CAU" , SuryaComedy
-https://tvstream.fun/api/sun/snxt.m3u8?id=30835
+http://139.59.55.243/sunnxt/live.php?c=30835&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7xqwa5MoBu3mDbCYQ38c5zf-eAxWQbF0X9Q&usqp=CAU" , SURYA MOVIES
-https://tvstream.fun/api/sun/snxt.m3u8?id=9019
+http://139.59.55.243/sunnxt/live.php?c=9019&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRRl54ZwBscBcz0leLJIXMdJ3Av5iJs86RCA&usqp=CAU" , SuryaMusic
-https://tvstream.fun/api/sun/snxt.m3u8?id=26575
+http://139.59.55.243/sunnxt/live.php?c=26575&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoM8WLEovqDuJBF6fDYqfDUrZAJMK1ik6IyQ&usqp=CAU" , 24 NEWS
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1-Bpp146Z8RRCQaPgbHkCLKjU-RhX-_cBMw&usqp=CAU" , Mediaone
