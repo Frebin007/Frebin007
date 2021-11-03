@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtpM9kCf4fEvGw-uXFfE3r53wJyDsOegxjw&usqp=CAU" , AsianetHD
 https://last.gcdn.co/IND491/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtpM9kCf4fEvGw-uXFfE3r53wJyDsOegxjw&usqp=CAU" , AsianetHD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86059
+https://serversmlivetv.tk/channels/asianet-tv-sd/MalluTV.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtpM9kCf4fEvGw-uXFfE3r53wJyDsOegxjw&usqp=CAU" , AsianetHD
 https://last.gcdn.co/IND521/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtpM9kCf4fEvGw-uXFfE3r53wJyDsOegxjw&usqp=CAU" , AsianetHD
@@ -10,7 +10,9 @@ https://last.gcdn.co/IND491/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png/revision/latest?cb=20200307083953" , Asianet MIDDLE EAST
 http://14.199.164.20:4001/play/a0k6/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_gGg9UfzoFs2T6qD8ddJySeS6k6u5ayjPOw&usqp=CAU" , ZeeKeralam
-https://z5ams.akamaized.net/zkeralamhd/tracks-v5a1/hdntl=exp=1635745655~acl=%2f*~data=hdntl~hmac=0d2a8b2c7e3fc6244033f808985c35f897bbd0fc6dd14bbf4e6188230ef805c0/mono.m3u8
+http://last.gcdn.co/IND492/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_gGg9UfzoFs2T6qD8ddJySeS6k6u5ayjPOw&usqp=CAU" , ZeeKeralam 2
+https://z5ams.akamaized.net/zkeralamhd/index.m3u8?hdnts=st=1635952645~exp=1635955645~acl=/*~hmac=e76285068859aabf9f866a8e61991334d751090cb7353160ea2336633570f334
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png" , Flowers Tv
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png" , Flowers Tv USA
@@ -24,9 +26,9 @@ http://veganxe.com/api/ytv/max.php?id=42345656&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrbpm7Y3kh5IOAHrGc58DnWXcLpJjiSiA3Pw&usqp=CAU" , MAZHAVIL MANORAMA
 https://yupptvmsldev.akamaized.net/hls/live/2008774/mazhavilmanorama/mazhavilmanorama/playlist.m3u8?hdnts=st=1614546158~exp=1714546058~acl=!*/2010053/*!*/2008051/*!*/2008126/*!*/2008123/*!*/2008839/*!*/2004031/*!*/2009560/*!*/2003938/*!*/2003662/*!*/2003939/*!*/2009887/*!*/2007780/*!*/2008055/*!*/2008015/*!*/2003942/*!*/2007651/*!*/2008775/*!*/2010052/*!*/2010048/*!*/2008774/*!*/2010047/*!*/2009216/*!!*/2006792/*!*/2008784/*!*/2007108/*!*/2009279/*!*/2000183/*!*/2007862/*!~data=YuppTV_Monitoring~hmac=60dd72aa0501805791c91d9a4bb2f2665df3f5372a217bf71e396d949cfc1887
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Fop__nglOjcd6Y8X4pY5fUsaO6-iB6RQ6Q&usqp=CAU" , AsianetPlus
-https://indian.gcdn.co/MALYLAM-AsianetPlus/tracks-v1a1/mono.m3u8
+http://last.gcdn.co/IND519/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPff-aLb01yYdNHC5EMtYBSWHapYmBRPSSjw&usqp=CAU" , ASIANET MOVIE
-http://rm5.topcms.cc:8080/7fe5abe6ab/ee3142771b/281733?token=TEQOUUFbGgoUV1NfVF8CUF8DVwcFVAEEBQJQUFMBVlgGUFUEUQVeUlMUG0QQTUYHWAhpWwUXCQUJAwMHVRoWTEQDFG9bVxoKFAcDX1oPA0AVR0JbDFARDQAEBwFWAAEOBV9KEkJaXBIMFANTUwAFQBVHU0oVUEFZUF5rUANAXVpSRFxeR19UHBRZWTkHXFkDVwEUCEMFERsTW0dERAwWcVgUD0pdXRhkU1pSFgxLQBEZIltQKRcfFVNbQEYHQlEbDURXAAQBGhwUVVgTDU1GGxtfFHsvFx8VVEpAUQhFXVZZRFwSRkAaHBRfRDkRXEcWSwBXXwRHEQ0TAhYYRFtVQWgFCV5cVltEX1lZFUEDFlMbSRRfDltaQ15Aa0QPUhYDFVdfBgAKGk0=
+http://xlx723.dyndns.org/iproxy/miniProxy.php/https://yupptvmsldevnonusacan.akamaized.net/hls/live/2010053/asianetmovieshttp/asianetmovieshttp/playlist.m3u8?hdnts=st=1614546158~exp=1714546058~acl=!*/2010053/*!*/2008051/*!*/2008126/*!*/2008123/*!*/2008839/*!*/2004031/*!*/2009560/*!*/2003938/*!*/2003662/*!*/2003939/*!*/2009887/*!*/2007780/*!*/2008055/*!*/2008015/*!*/2003942/*!*/2007651/*!*/2008775/*!*/2010052/*!*/2010048/*!*/2008774/*!*/2010047/*!*/2009216/*!!*/2006792/*!*/2008784/*!*/2007108/*!*/2009279/*!*/2000183/*!*/2007862/*!~data=YuppTV_Monitoring~hmac=60dd72aa0501805791c91d9a4bb2f2665df3f5372a217bf71e396d949cfc1887
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPff-aLb01yYdNHC5EMtYBSWHapYmBRPSSjw&usqp=CAU" , ASIANET MOVIE
 https://yuppcatchup.akamaized.net/preview/asianetmovies/800.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT38rayoBpdoc10ikayQwBszpukt-IrMsN_ng&usqp=CAU" , SuryaComedy
