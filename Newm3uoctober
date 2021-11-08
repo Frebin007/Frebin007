@@ -107,8 +107,8 @@ https://idvd.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
 https://live.picasotv.xyz/m3u8.php?c=Sonic_Malayalam&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJm9rsxadbXer8LgSfSmltCci_7HKNM6HQQ&usqp=CAU", NICK MALAYALAM
 https://live.picasotv.xyz/m3u8.php?c=Nick_Malayalam&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="IN365:" tvg-logo="" group-title="",IN365:Asianet,http://dtv21.org:2082/Red123_394985/sikXriN2I7/86059
-#EXTINF:-1,tvg-logo="",Asianet,http://dtv21.org:2082/Red123_394985/sikXriN2I7/49311
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtpM9kCf4fEvGw-uXFfE3r53wJyDsOegxjw&usqp=CAU" , AsianetHD http://dtv21.org:2082/Red123_394985/sikXriN2I7/49311
+#EXTINF:-1,tvg-logo="",Asianet http://dtv21.org:2082/Red123_394985/sikXriN2I7/49311
 #EXTINF:-1,tvg-logo="",http://dtv21.org:2082/Red123_394985/sikXriN2I7/86059
 #EXTINF:-1,http://dtv21.org:2082/Red123_394985/sikXriN2I7/87214
 #EXTINF:-1,
