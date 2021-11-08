@@ -99,13 +99,13 @@ https://live.neestream.com/neestream_01/safari/index.m3u8
 https://indian.gcdn.co/MALYLAM-Asianetutsav/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Goodness-tv-logo.png" , GOODNESS CHANNEL
 https://live.neestream.net/neestream_01/goodnesstv/tracks-v2a1/mono.m3u8?token=693400
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDQwIgOCH5qnuVBPexpL8Oe2FUaWLRAsELaw&usqp=CAU" , KochuTv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDQwIgOCH5qnuVBPexpL8Oe2FUaWLRAsELaw&usqp=CAU", KochuTv
 https://suntvvodaf-live.s.llnwi.net/KochuTV/KochuTV.isml/KochuTV-audio_1=64000-video=699968.m3u8?p=57&se=1634981584&e=1635011284&h=69e942eb45d354510bc66d268211e884
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmzo-K9Dqe-dbVY4IplnZ6913V5P_MCjBxZw&usqp=CAU" , DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmzo-K9Dqe-dbVY4IplnZ6913V5P_MCjBxZw&usqp=CAU", DISCOVERY KIDS
 https://idvd.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHin3MwcfFFIz2yhOyqT_1IEBvjNHz3Z5s1g&usqp=CAU" , SONIC MALAYALAM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHin3MwcfFFIz2yhOyqT_1IEBvjNHz3Z5s1g&usqp=CAU", SONIC MALAYALAM
 https://live.picasotv.xyz/m3u8.php?c=Sonic_Malayalam&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJm9rsxadbXer8LgSfSmltCci_7HKNM6HQQ&usqp=CAU" , NICK MALAYALAM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJm9rsxadbXer8LgSfSmltCci_7HKNM6HQQ&usqp=CAU", NICK MALAYALAM
 https://live.picasotv.xyz/m3u8.php?c=Nick_Malayalam&q=800&e=junk.m3u8
 #EXTINF:-1,http://dtv21.org:2082/Red123_394985/sikXriN2I7/49311
 #EXTINF:-1,http://dtv21.org:2082/Red123_394985/sikXriN2I7/86059
