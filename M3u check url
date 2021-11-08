@@ -2,3 +2,8 @@
 http://xlx723.dyndns.org/iproxy/miniProxy.php/https://yupptvmslwebnonusacan.akamaized.net/hls/live/2008782/starasianet/starasianet/starasianet_400/chunklist.m3u8?hdntl=exp=1634969951~acl=*~data=hdntl~hmac=aa72ffe4e9c4191c8ba14baf5325ccc2d442e300492856281fc225e3aac3341f
 #EXTINF:-1 tvg-id="Asianethd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41pBR81Ugkx-Z70ll0eD_j_uX3XLfLZDNHA&usqp=CAU" group-title="MALAYALAM", SURYA TVHD
 http://xlx723.dyndns.org/iproxy/miniProxy.php/https://yupptvmslwebnonusacan.akamaized.net/hls/live/2008782/starasianet/starasianet/starasianet_400/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtpM9kCf4fEvGw-uXFfE3r53wJyDsOegxjw&usqp=CAU" , AsianetHD http://dtv21.org:2082/Red123_394985/sikXriN2I7/49311
+#EXTINF:-1 tvg-logo="",Asianet http://dtv21.org:2082/Red123_394985/sikXriN2I7/49311
+#EXTINF:-1 tvg-logo="" http://dtv21.org:2082/Red123_394985/sikXriN2I7/86059
+#EXTINF:-1 http://dtv21.org:2082/Red123_394985/sikXriN2I7/87214
+#EXTINF:-1
